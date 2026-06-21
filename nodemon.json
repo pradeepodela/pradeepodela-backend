@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["serviceAccountKey.json", "node_modules"],
+  "exec": "ts-node src/index.ts"
+}
